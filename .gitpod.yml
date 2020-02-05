@@ -1,0 +1,7 @@
+tasks:
+  - init: ./gradlew build
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack@0.8.1:LRImBn//d5JhH4PUEI1BaQ==
+    - fwcd.kotlin@0.2.11:hnLDbpwnjyb7P7BCkc2Ykg==
