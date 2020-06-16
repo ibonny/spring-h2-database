@@ -4,7 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         sh './gradlew bootJar'
-        sh 'ls -l'
+        sh 'ls -l build/lib'
       }
     }
 
